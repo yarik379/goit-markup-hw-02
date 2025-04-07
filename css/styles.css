@@ -60,6 +60,11 @@ a {
 }
 
 .order-service-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 
@@ -77,35 +82,31 @@ a {
     background-color: #4D5AE5;
     }
 
-.button-text {
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #fff;
+.order-service-button:hover,
+.order-service-button:focus {
+    background-color #404bbf;;
 }
-.order-service-title {
-font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
+
+.button-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #fff;
 }
 
+
 .team-title, .portfolio-title {
-            font-weight: 700;
-            font-size: 36px;
-            line-height: 1.11;
-            letter-spacing: 0.02em;
-            text-align: center;
-            text-transform: capitalize;
-            color: #2e2f42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .principle-descr, .portfolio-descr {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -144,11 +145,11 @@ font-family: "Roboto", sans-serif;
 }
 
 .team-text {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 
 }
 
@@ -157,9 +158,9 @@ font-family: "Roboto", sans-serif;
 }
 
 .page-footer-text {
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }

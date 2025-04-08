@@ -57,11 +57,11 @@ a {
     color: #434455;
 }
 
-.order-service {
+.insight-service {
     background-color: #2e2f42;
 }
 
-.order-service-title {
+.insight-service-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -70,7 +70,7 @@ a {
     color: #fff;
 }
 
-.order-service-button {
+.insight-service-button {
     cursor: pointer;
     font-weight: 500;
         font-size: 16px;
@@ -80,8 +80,8 @@ a {
     background-color: #4D5AE5;
     }
 
-.order-service-button:hover,
-.order-service-button:focus {
+.insight-service-button:hover,
+.insight-service-button:focus {
     background-color: #404BBF;
 }
 

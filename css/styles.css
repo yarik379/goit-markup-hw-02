@@ -23,6 +23,8 @@ a {
     color: #4d5ae5;
 }
 
+
+
 .header-logo .logo-part {
     color: #2e2f42;
 }
@@ -70,10 +72,7 @@ a {
 
 .order-service-button {
     cursor: pointer;
-    border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;

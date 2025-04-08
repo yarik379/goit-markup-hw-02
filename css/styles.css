@@ -84,7 +84,7 @@ a {
 
 .order-service-button:hover,
 .order-service-button:focus {
-    background-color #404bbf;;
+    background-color: #404BBF;
 }
 
 .button-text {
@@ -157,7 +157,7 @@ a {
 .portfolio-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
